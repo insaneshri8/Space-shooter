@@ -1,0 +1,15 @@
+﻿  Game.cpp
+D:\Visual studio\Project1\Project1\Game.cpp(15,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Visual studio\Project1\Project1\Game.cpp(15,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\Visual studio\Project1\Project1\Game.cpp(122,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual studio\Project1\Project1\Game.cpp(394,23): warning C4018: '<': signed/unsigned mismatch
+D:\Visual studio\Project1\Project1\Game.cpp(474,23): warning C4018: '<': signed/unsigned mismatch
+  Project1.vcxproj -> D:\Visual studio\Project1\Debug\Game.exe
